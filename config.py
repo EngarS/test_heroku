@@ -1,2 +1,2 @@
 token = 'YOU_TOKEN'
-domain = 'https://testpytelebot.herokuapp.com/'
+domain = 'https://you_apps_name.herokuapp.com/'
