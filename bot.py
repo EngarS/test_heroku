@@ -1,5 +1,6 @@
 import config
 import telebot
+import os
 from flask import Flask, request
 
 bot = telebot.TeleBot(config.token)
